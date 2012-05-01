@@ -1,0 +1,29 @@
+﻿<Window x:Class="ForexCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="430" Width="642" ResizeMode="CanResize" Name="Window">
+    <Grid>
+        <Label Content="Forex Calculator" Name="label1" FontWeight="Bold" FontSize="20" HorizontalContentAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Width="203" Margin="208,12,209,270" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="174,108,0,0" Name="buyProfitText" VerticalAlignment="Top" Width="28" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="174,137,0,0" Name="buyStopLossText" VerticalAlignment="Top" Width="28" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="174,166,0,0" Name="buyOrderText" VerticalAlignment="Top" Width="28" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="417,108,0,0" Name="sellProfitText" VerticalAlignment="Top" Width="28" />
+        <TextBox HorizontalAlignment="Left" Margin="417,137,0,0" Name="sellStopLossText" Width="28" Height="23" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="417,166,0,0" Name="sellOrderText" VerticalAlignment="Top" Width="28" TextChanged="sellOrderText_TextChanged" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="84,106,0,0" Name="buyTakeProfitLabel" VerticalAlignment="Top" Width="84" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="84,135,0,0" Name="buyStopLossLevel" VerticalAlignment="Top" Width="84" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="84,164,0,0" Name="buyOrderlabel" VerticalAlignment="Top" Width="84" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="451,106,0,0" Name="sellTakeProfitlabel" VerticalAlignment="Top" Width="84" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="451,135,0,0" Name="sellStopLossLabel" VerticalAlignment="Top" Width="84" />
+        <Label Margin="451,164,0,0" Name="sellOrderLabel" Height="28" VerticalAlignment="Top" HorizontalAlignment="Left" Width="84" />
+        <Label Content="Insert take profit level" Height="28" HorizontalAlignment="Left" Margin="208,106,0,0" Name="MiddleTakeProfitLabel" VerticalAlignment="Top" Width="203" HorizontalContentAlignment="Center" FontSize="14" />
+        <Label Content="Insert Stop Loss level" Height="28" HorizontalAlignment="Left" Margin="208,135,0,0" Name="middleStopLossLabel" VerticalAlignment="Top" Width="203" HorizontalContentAlignment="Center" FontSize="14" />
+        <Label Content="Insert Order Level" Height="28" HorizontalAlignment="Left" Margin="208,164,0,0" Name="middleOrderLevel" VerticalAlignment="Top" Width="203" HorizontalContentAlignment="Center" FontSize="14" />
+        <Label Content="Insert current price" Height="28" HorizontalAlignment="Left" Margin="208,233,0,0" Name="middleCurrentPriceLabel" VerticalAlignment="Top" Width="203" HorizontalContentAlignment="Center" FontSize="16" />
+        <Label Content="SELL" Height="28" HorizontalAlignment="Left" Margin="451,57,0,0" Name="label4" VerticalAlignment="Top" Width="84" FontSize="15" HorizontalContentAlignment="Center" />
+        <Label Content="BUY" FontSize="15" Height="28" HorizontalAlignment="Left" Margin="84,57,0,0" Name="label5" VerticalAlignment="Top" Width="84" HorizontalContentAlignment="Center" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="84,239,0,0" Name="buyPriceText" VerticalAlignment="Top" Width="118" TextChanged="buyPriceText_TextChanged" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="417,238,0,0" Name="sellPriceText" VerticalAlignment="Top" Width="118" />
+        <Label Content="Scalping Trade Order" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="174,12,174,342" Name="label2" VerticalAlignment="Center" Width="272" />
+    </Grid>
+</Window>

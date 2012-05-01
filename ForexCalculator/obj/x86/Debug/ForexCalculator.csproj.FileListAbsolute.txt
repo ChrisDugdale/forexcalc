@@ -1,0 +1,17 @@
+C:\Users\Dugzor\Dropbox\Docs\C#\Projects\My Projects\ForexCalculator\ForexCalculator\bin\Debug\ForexCalculator.exe
+C:\Users\Dugzor\Dropbox\Docs\C#\Projects\My Projects\ForexCalculator\ForexCalculator\bin\Debug\ForexCalculator.pdb
+C:\Users\Dugzor\Dropbox\Docs\C#\Projects\My Projects\ForexCalculator\ForexCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dugzor\Dropbox\Docs\C#\Projects\My Projects\ForexCalculator\ForexCalculator\obj\x86\Debug\MainWindow.baml
+C:\Users\Dugzor\Dropbox\Docs\C#\Projects\My Projects\ForexCalculator\ForexCalculator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dugzor\Dropbox\Docs\C#\Projects\My Projects\ForexCalculator\ForexCalculator\obj\x86\Debug\App.g.cs
+C:\Users\Dugzor\Dropbox\Docs\C#\Projects\My Projects\ForexCalculator\ForexCalculator\obj\x86\Debug\ForexCalculator_MarkupCompile.cache
+C:\Users\Dugzor\Dropbox\Docs\C#\Projects\My Projects\ForexCalculator\ForexCalculator\obj\x86\Debug\ForexCalculator.g.resources
+C:\Users\Dugzor\Dropbox\Docs\C#\Projects\My Projects\ForexCalculator\ForexCalculator\obj\x86\Debug\ForexCalculator.Properties.Resources.resources
+C:\Users\Dugzor\Dropbox\Docs\C#\Projects\My Projects\ForexCalculator\ForexCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dugzor\Dropbox\Docs\C#\Projects\My Projects\ForexCalculator\ForexCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dugzor\Dropbox\Docs\C#\Projects\My Projects\ForexCalculator\ForexCalculator\obj\x86\Debug\ForexCalculator.exe
+C:\Users\Dugzor\Dropbox\Docs\C#\Projects\My Projects\ForexCalculator\ForexCalculator\obj\x86\Debug\ForexCalculator.pdb
+C:\Users\Dugzor\Dropbox\C# Workspace\My Projects\ForexCalculator\ForexCalculator\obj\x86\Debug\ForexCalculator.exe
+C:\Users\Dugzor\Dropbox\C# Workspace\My Projects\ForexCalculator\ForexCalculator\obj\x86\Debug\ForexCalculator.pdb
+C:\Users\Dugzor\Dropbox\C# Workspace\My Projects\forexcalc\ForexCalculator\obj\x86\Debug\ForexCalculator.exe
+C:\Users\Dugzor\Dropbox\C# Workspace\My Projects\forexcalc\ForexCalculator\obj\x86\Debug\ForexCalculator.pdb

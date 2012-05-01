@@ -1,0 +1,148 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml" caret="286" fromTop="2" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:SellPrice.cs" caret="170" fromTop="4" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:App.xaml.cs" caret="491" fromTop="11" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:Levels.cs" caret="133" fromTop="7" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml.cs" caret="1507" fromTop="17" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:BuyPrice.cs" caret="223" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml" caret="1443" fromTop="11" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:App.xaml.cs" caret="505" fromTop="18" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:App.xaml.cs" caret="482" fromTop="18" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml.cs" caret="365" fromTop="7" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:BuyPrice.cs" caret="288" fromTop="14" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml.cs" caret="403" fromTop="2" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml.cs" caret="1322" fromTop="15" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml.cs" caret="1322" fromTop="8" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:App.xaml.cs" caret="491" fromTop="30" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:App.xaml.cs" caret="218" fromTop="5" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:BuyPrice.cs" caret="172" fromTop="8" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:SellPrice.cs" caret="170" fromTop="4" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml.cs" caret="1322" fromTop="30" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:Levels.cs" caret="1236" fromTop="31" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:Levels.cs" caret="755" fromTop="16" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:App.xaml.cs" caret="491" fromTop="10" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:App.xaml.cs" caret="491" fromTop="5" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml.cs" caret="709" fromTop="17" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:App.xaml.cs" caret="491" fromTop="11" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:Levels.cs" caret="133" fromTop="4" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml.cs" caret="575" fromTop="14" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml.cs" caret="1919" fromTop="21" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml.cs" caret="751" fromTop="11" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml.cs" caret="1367" fromTop="8" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml.cs" caret="1871" fromTop="25" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml.cs" caret="1206" fromTop="23" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml.cs" caret="1624" fromTop="16" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml.cs" caret="899" fromTop="14" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml.cs" caret="732" fromTop="10" />
+      <File id="C2BC7EFD-0524-43C4-98C7-728B09592D82/f:MainWindow.xaml.cs" caret="1096" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="1" />
+      <Item value="float" priority="3" />
+      <Item value="public" priority="3" />
+      <Item value="this" priority="0" />
+      <Item value="value" priority="3" />
+      <Item value="BuyPrice`0" priority="0" />
+      <Item value="new" priority="6" />
+      <Item value="BuyPrice" priority="0" />
+      <Item value="SellPrice`0" priority="0" />
+      <Item value="SellPrice" priority="0" />
+      <Item value="BuyLevels`0" priority="0" />
+      <Item value="BuyLevels" priority="0" />
+      <Item value="SellLevels`0" priority="0" />
+      <Item value="SellLevels" priority="0" />
+      <Item value="buyProfitText" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="ForexCalculator" priority="1" />
+      <Item value="e" priority="1" />
+      <Item value="bp" priority="0" />
+      <Item value="buyPriceText" priority="0" />
+      <Item value="double" priority="2" />
+      <Item value="static" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="PriceChange`0" priority="0" />
+      <Item value="enum" priority="0" />
+      <Item value="Enum`0" priority="0" />
+      <Item value="WhatChanged`0" priority="0" />
+      <Item value="int" priority="1" />
+      <Item value="if" priority="1" />
+      <Item value="whatChanged" priority="2" />
+      <Item value="flag" priority="0" />
+      <Item value="else" priority="1" />
+      <Item value="throw" priority="0" />
+      <Item value="ArgumentOutOfRangeException" priority="0" />
+      <Item value="MainWindow`0" priority="8" />
+      <Item value="buyTakeProfitLabel" priority="2" />
+      <Item value="Properties" priority="0" />
+      <Item value="Window`0" priority="0" />
+      <Item value="Console`0" priority="0" />
+      <Item value="Levels`0" priority="3" />
+      <Item value="isBuy" priority="2" />
+      <Item value="Levels" priority="0" />
+      <Item value="level" priority="3" />
+      <Item value="ArgumentOutOfRangeException`0" priority="0" />
+      <Item value="level1" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="false" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ForexCalculator.SellCurrency">
+      <Item value="sellTakeProfit" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ForexCalculator.BuyPrice">
+      <Item value="CurrentBuyPrice" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToDouble`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ForexCalculator.App">
+      <Item value="PriceChange`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ForexCalculator.MainWindow">
+      <Item value="WindowStyleProperty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Label">
+      <Item value="Content" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ForexCalculator.Levels">
+      <Item value="BuyStopLoss" priority="0" />
+      <Item value="BuyOrderLevel" priority="0" />
+      <Item value="SellTakeProfit" priority="0" />
+      <Item value="SellStopLoss" priority="0" />
+      <Item value="SellOrderLevel" priority="0" />
+      <Item value="BuyTakeProfit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
